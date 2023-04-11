@@ -1,10 +1,12 @@
 /*  your css code here. If applicable */
 img{
 	width: 32%;
-	border-radius:20px
+	border-radius:20px;
+	
 	
 }
 .container{
 	background-color: #444;
 	padding:20px;
+	border-radius:10px
 }
